@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
